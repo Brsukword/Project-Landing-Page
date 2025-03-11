@@ -83,7 +83,7 @@ body {
         align-items: start;
         justify-content: center;
         flex-shrink: 0;
-        gap: 10px;
+        gap: 20px;
     }
 
     
@@ -126,11 +126,12 @@ body {
     }
 
     h3 {
-        color: #1f2937;
+        color: #241224;
         font-size: 35px;
         font-weight: 800;
         margin: 0px;
         padding: 0px;
+        -webkit-text-stroke: 1px #D4EADE;
     }
 
 
